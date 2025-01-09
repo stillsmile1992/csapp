@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+//重点4 6 8 9 12章节
 int main(){
-    printf("Hello, World!\n");
-    printf("Welcome to 2025!\n");
+    printf("hello, world!\n");
+    printf("welcome to 2025!\n");
     return 0;
 }
